@@ -12,3 +12,9 @@ It have the three parts :<br>
 
 for running the application do npm i in each folder and run nodeClient at its proper position 
 
+here i have use the : React , Node.js , mongodb , socket.io
+
+The website image is given as :
+
+![pref_load_2_final](https://github.com/sujal-jain-347/Performance-Monitoring-Dashboard-/assets/136954858/6a624e64-0bf9-49da-9d0f-7ce8582960a9)
+
