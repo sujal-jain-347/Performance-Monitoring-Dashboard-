@@ -18,3 +18,5 @@ The website image is given as :
 
 ![pref_load_2_final](https://github.com/sujal-jain-347/Performance-Monitoring-Dashboard-/assets/136954858/6a624e64-0bf9-49da-9d0f-7ce8582960a9)
 
+I hope this dashBoard will we very useful for tracking the different cpu resources  
+
