@@ -2,7 +2,7 @@
 
 This is an Performance-Monitoring-Dashboard using this Monitoring-Dashboard the user can 
 view the performance/parameter of the different cpu rescoures at any where , at any place , on the 
-simple browser access. he can view the various parameter of the compuer like cpu load , total memory , free memory,
+simple browser access. it can view the various parameter of the compuer like cpu load , total memory , free memory,
 no of the cores , os_type , chip name etc. can serach by the OS Type of the Different resource and the filter by the only 
 offline resource
 
